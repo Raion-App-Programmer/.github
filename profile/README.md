@@ -5,8 +5,8 @@
 | Elgin Brian Wahyu Bramadhika | Lead App Programmer |
 | Samuel Alfito Deanova | Co-Lead App Programmer |
 | Azkal Baihaqi Putra Sandita | Vice Chief of Marketing |
-| Ghufron Bagaskara | Chief of InTech |
-| Lovely Ito Panjaitan | Vice Chief of InTech |
+| Ghufron Bagaskara | Chief of Innovation Technology |
+| Lovely Ito Panjaitan | Vice Chief of Innovation Technology |
 | Nugraha Billy Viandy | Member |
 | Muhammad Zhafir Aufar | Member |
 | Rachmat Thirdi Maliki | Member |
