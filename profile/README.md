@@ -4,7 +4,7 @@ Welcome to the Raion Community 2025 App Programmer team! We are a group of passi
 
 ## 🌟 Team Members
 
-| No. | 👤 Name | 🎭 Role | 👾 GitHub |
+| No. | 👤 Name | 🎭 Role | 👾 GitHub Account |
 | :-- | :--- | :--- | :--- |
 | 1 | Elgin Brian Wahyu Bramadhika | Lead App Programmer | <p align="center"><a href="https://github.com/elginbrian"><img src="https://github.com/elginbrian.png?size=40" alt="elginbrian" width="40" height="40" style="border-radius: 50%;"><br><small>elginbrian</small></a></p> |
 | 2 | Samuel Alfito Deanova | Co-Lead App Programmer | <p align="center"><a href="https://github.com/samuelalfito"><img src="https://github.com/samuelalfito.png?size=40" alt="samuelalfito" width="40" height="40" style="border-radius: 50%;"><br><small>samuelalfito</small></a></p> |
