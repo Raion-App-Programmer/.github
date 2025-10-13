@@ -1,5 +1,7 @@
 # 🚀 People Behind App Programmer Raion Community 2025
+<img width="1600" height="400" alt="HEADER DEAFULT" src="https://github.com/user-attachments/assets/9a119af2-43ee-44b8-8e1f-c5c1009b4a9f" />
 
+<br/>
 Welcome to the Raion Community 2025 App Programmer team! We are a group of passionate developers, innovators, and tech enthusiasts dedicated to pushing the boundaries of application development. With a shared vision of building impactful digital solutions, our team works together to create, innovate, and inspire. Meet the minds behind our journey! 🎯
 
 ## 🌟 Team Members
