@@ -4,7 +4,7 @@
 <br/>
 Welcome to the Raion Community 2026 Mobile Engineer team! We are a group of passionate developers, innovators, and tech enthusiasts dedicated to pushing the boundaries of application development. With a shared vision of building impactful digital solutions, our team works together to create, innovate, and inspire. Meet the minds behind our journey! 🎯
 
-## 🌟 Team Members
+## 🌟 Active Team Members
 
 | No. | 👾 GitHub | 👤 Full Name | 🎭 Role in Raion Community |
 | :-- | :---: | :--- | :--- |
