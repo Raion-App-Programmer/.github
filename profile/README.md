@@ -27,6 +27,7 @@ Welcome to the Raion Community 2026 Mobile Engineer team! We are a group of pass
 | 17 | <p align="center"><a href="https://github.com/rhesatsaqif23"><img src="https://github.com/rhesatsaqif23.png?size=36" alt="rhesatsaqif23" width="36" height="36" style="border-radius: 50%;"></a></p> | Rhesa Tsaqif Adyatma | Member |
 | 18 | <p align="center"><a href="https://github.com/femnixx"><img src="https://github.com/femnixx.png?size=36" alt="femnixx" width="36" height="36" style="border-radius: 50%;"></a></p> | Surya Pradipta | Member |
 | 19 | <p align="center"><a href="https://github.com/AndreasBagasgoro"><img src="https://github.com/AndreasBagasgoro.png?size=36" alt="AndreasBagasgoro" width="36" height="36" style="border-radius: 50%;"></a></p> | Andreas Bagasgoro | Member |
+| 20 | <p align="center"><a href="https://github.com/dirgaydtm"><img src="https://github.com/dirgaydtm.png?size=36" alt="dirgaydtm" width="36" height="36" style="border-radius: 50%;"></a></p> | Dirga Yuditama | Member |
 
 ## 💡 Our Mission
 To **empower** aspiring developers, foster **innovation**, and create **cutting-edge** applications that make a real impact.
