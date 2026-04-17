@@ -1,5 +1,5 @@
 # 🚀 People Behind Mobile Engineer Raion Community 2026
-<img width="4800" height="1200" alt="Header Gform Default" src="https://github.com/user-attachments/assets/60520f47-c21d-46cd-ba59-f1a11b7bfb9b" />
+<img width="4800" alt="Header Gform Default" src="https://github.com/user-attachments/assets/60520f47-c21d-46cd-ba59-f1a11b7bfb9b" />
 
 <br/>
 Welcome to the Raion Community 2026 Mobile Engineer team! We are a group of passionate developers, innovators, and tech enthusiasts dedicated to pushing the boundaries of application development. With a shared vision of building impactful digital solutions, our team works together to create, innovate, and inspire. Meet the minds behind our journey! 🎯
